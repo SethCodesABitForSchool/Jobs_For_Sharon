@@ -1,6 +1,5 @@
 # Jobs_For_Sharon
-
-![image](https://github.com/SethCodesABitForSchool/Jobs_For_Sharon/assets/147195203/4d71749a-4e9f-45a1-903e-113a576630e9)
+![280500985-4d71749a-4e9f-45a1-903e-113a576630e9](https://github.com/SethCodesABitForSchool/Jobs_For_Sharon/assets/147195203/579eceac-471d-458d-9129-1e1ebdca2467)
 
 __Job Postings__
 
