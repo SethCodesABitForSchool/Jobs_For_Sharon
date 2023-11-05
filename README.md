@@ -1,5 +1,6 @@
 # Jobs_For_Sharon
-![280500985-4d71749a-4e9f-45a1-903e-113a576630e9](https://github.com/SethCodesABitForSchool/Jobs_For_Sharon/assets/147195203/579eceac-471d-458d-9129-1e1ebdca2467)
+
+![IMG_8586-clear-clear](https://github.com/SethCodesABitForSchool/Jobs_For_Sharon/assets/147195203/67577ce4-b459-4501-8b6a-2bb09529d029)
 
 Find the Job application tracker here: https://docs.google.com/spreadsheets/d/1NKdVihZ3zCf40oXdvRN0F15Ntkuh_SIlU1DAdyMRVKY/edit?usp=sharing
 __Job Postings__
