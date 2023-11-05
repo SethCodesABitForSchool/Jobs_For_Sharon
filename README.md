@@ -13,3 +13,9 @@ __Explore Occupations Sites__
 
 1. National Occupational Classification (NOC): https://www.umanitoba.ca/career-services/explore-occupations-noc-index#natural-and-applied-sciences
 
+| Job Name            | Company          | Application Deadline | Application Status | Date Applied |
+|---------------------|------------------|-----------------------|--------------------|--------------|
+| Job Title 1         | Company A        | MM/DD/YYYY            | Applied            | MM/DD/YYYY   |
+| Job Title 2         | Company B        | MM/DD/YYYY            | In Progress        | MM/DD/YYYY   |
+| Job Title 3         | Company C        | MM/DD/YYYY            | Rejected           | MM/DD/YYYY   |
+| ...                 | ...              | ...                   | ...                | ...          |
