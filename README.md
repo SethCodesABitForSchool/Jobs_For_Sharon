@@ -25,7 +25,7 @@ __Excel File:__ Find the Job application tracker here: https://docs.google.com/s
 
 1. Kane, UofM innovation drive: __Dr. Robert Huizinga__, Scientific Advisory Board Memberhttps://www.linkedin.com/in/roberthuizinga/ - contact him thru linkedin to get info on the winnipeg branch and potential vacancies.
 2. Kane, UofM innovation drive: __Rivka (Rashieda) Gluck__, Scientific Advisory Board Member: https://www.linkedin.com/in/rivka-gluck-606ba26/ - contact thru linkedin to get info on the winnipeg branch and potential vacancies.
-3. Bio TIE - SmartPark
+3. __Bio TIE - SmartPark__
 
  - Protein isolation from Moringa stenopetala and enzymatic hydrolysis to release bioactive peptides (Dr. Rotimi Aluko, University of Manitoba, Department of Food and Human Nutritional Sciences).
 
