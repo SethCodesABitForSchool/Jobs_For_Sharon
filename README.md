@@ -19,6 +19,7 @@ __Excel File:__ Find the Job application tracker here: https://docs.google.com/s
 
 1. National Occupational Classification (NOC): https://www.umanitoba.ca/career-services/explore-occupations-noc-index#natural-and-applied-sciences
 2. Kane - Winnipeg - Send the resume at: info@kanebiotech.com _____Website▶️__:https://kanebiotech.com/about-us/#careers
+3. SmartPark UofM: https://umanitoba.ca/facilities/smartpark
 
 # Contact These People
 
