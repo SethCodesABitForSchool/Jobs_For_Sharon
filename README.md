@@ -5,7 +5,8 @@ __Job Postings__
 1. Science Laboratory Evaluator - Canadian Food Inspection Agency - https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=1911468
 2. Laboratory Analyst - Canadian Food Inspection Agency - https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=1778768
 3. Laboratory technician, chemical VERIFIED - Dominion Veterinary Laboratories LTD - https://www.jobbank.gc.ca/jobsearch/jobposting/39384011?source=searchresults
-4. Design Research Associate - Bayer  - https://www.linkedin.com/jobs/search/ currentJobId=3748967215&geoId=101213860&keywords=Biology%20Laboratory%20Technologist%20&location=Winnipeg%2C%20Manitoba%2C%20Canada&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
+4. Design Research Associate - Bayer  - https://www.linkedin.com/jobs/view/3748967215
+5. 
 
 __Explore Occupations Sites__
 
